@@ -1,6 +1,6 @@
 import './style.css'
-// import javascriptLogo from './javascript.svg'
-import { setupCounter } from './counter.js'
+
+
 
 const
   ALL_EVENTS = 'dragstart dragend dragenter dragleave dragexit drop drag'.split(' '),
